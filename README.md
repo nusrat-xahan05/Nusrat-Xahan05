@@ -1,5 +1,5 @@
 <!-- ----------------BANNER---------------- -->
-<img align="center" alt="visualization" src="https://github.com/nusrat-xahan/Nusrat-Xahan/blob/main/gitHub_Banner.gif">
+<img align="center" alt="visualization" src="https://github.com/nusrat-xahan05/Nusrat-Xahan/blob/main/gitHub_Banner.gif">
 
 
 <!-- ----------------ABOUT---------------- -->
@@ -89,9 +89,9 @@ TECHNOLOGIES:                          OTHER HOBBIES:
 
 <!-- ----------------GITHUB ACTIVITY---------------- -->
 <h2 align="left"> GitHub Activity 💁🏻‍♀️</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrat-xahan&show_icons=true&locale=en&theme=transparent" alt="nusrat-xahan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrat-xahan&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nusrat-xahan" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-xahan&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-xahan" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrat-xahan05&show_icons=true&locale=en&theme=transparent" alt="nusrat-xahan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrat-xahan05&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nusrat-xahan" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-xahan05&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-xahan" /> </p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-xahan&" alt="nusrat-xahan" /></p>
