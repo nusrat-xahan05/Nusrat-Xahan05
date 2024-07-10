@@ -4,12 +4,12 @@
 
 <!-- ----------------ABOUT---------------- -->
 <!--  <h1 align="center">Hi 🙋🏻‍♀️, I'm Nusrat</h1>  -->
-<h3 align="center">A passionate Data Enthusiast 🤟🏻</h3>
+<h3 align="center">Passionate About Data & Coding 🤟🏻</h3>
 
 ---
 <!-- <img align="right" alt="visualization" width="150" height="150" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif"> -->
 
-- 🌱 Currently exploring more about **Data Analysis Tools📊📈📉**
+- 🌱 Exploring more about **Data Analysis Tools📊📈📉**
 
 - 👨‍💻 All of my projects are available at ***UPDATE SOON⌛**
 
