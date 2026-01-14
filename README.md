@@ -3,21 +3,16 @@
 
 
 <!-- ----------------ABOUT---------------- -->
-<!--  <h1 align="center">Hi 🙋🏻‍♀️, I'm Nusrat</h1>  -->
-<h3 align="center">Passionate About Data & Coding 🤟🏻</h3>
+<h2 align="center">Turning Data into Insights & Ideas into Code 📊💻</h2>
+<h4 align="center">Full-Stack Developer | Problem Solver | Lifelong Learner 🚀</h4>
 
 ---
-<!-- <img align="right" alt="visualization" width="150" height="150" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif"> -->
 
-- 🌱 Exploring more about **Data Analysis Tools📊📈📉**
-
-- 👨‍💻 All of my projects are available at ***UPDATE SOON⌛**
-
-- 💬 Ask me about **Data Insights🎇**
-  
-- ⚡ Fascinated about **Learning New Things (Technologies & Life Hacks)🙅🏻‍♀️**
-
-- 📫 How to reach me **nusrat.jahan.az@gmail.com**
+- 💻 Aspiring **Full-Stack / Software Engineer** with a strong foundation in both **frontend and backend development**
+- 🧩 Passionate about writing **clean, maintainable code** and solving real-world problems
+- 🔍 Interested in **system design, APIs, performance optimization, and best practices**
+- ⚡ Fascinated about **Learning New Technologies & Life Hacks 🙅🏻‍♀️**
+- 🔥 *Always learning. Always improving. Always curious.*
 
 ---
 
@@ -30,11 +25,10 @@
 ```yaml                                
 TECHNOLOGIES:                          OTHER HOBBIES:
   [                                      [
-    "Problem Solving",                      "Cooking",
-    "Data Pipeline",                        "Gardening",
+    "Problem Solving",                      "Gardening",
+    "Data Pipeline",                        "Cooking",
     "Machine Learning",                     "Crafting",
-    "DevOps",                               "Sewing",
-    "Web Development"                       "Photographing"
+    "DevOps"                                "Sewing"
   ]                                      ]
 ```
 
@@ -53,7 +47,12 @@ TECHNOLOGIES:                          OTHER HOBBIES:
 <h4>🌐 Web Technologies</h4>
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,jquery,reactrouter,redux&perline=9"
+    src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,tailwind,react,nextjs&perline=12"
+    alt="Web Technologies"
+  />
+  <img src="https://reactrouter.com/splash/hero-3d-logo.dark.webp" width="60" />
+  <img 
+    src="https://skillicons.dev/icons?i=redux,nodejs,express,firebase&perline=12"
     alt="Web Technologies"
   />
 </p>
@@ -81,7 +80,7 @@ TECHNOLOGIES:                          OTHER HOBBIES:
 <h4>⚙️ Tools & Platforms</h4>
 <p align="left">
   <img 
-    src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,express,firebase,postman,figma,netlify,vercel,ps&perline=11"
+    src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify,vercel,ps&perline=11"
     alt="Tools & Platforms"
   />
 </p>
