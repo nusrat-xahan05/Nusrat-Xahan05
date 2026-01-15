@@ -19,7 +19,7 @@
 
 <!-- ----------------FIELDS OF INTEREST---------------- -->
 <h2 align="left">
-  Fields of Interest🤘🏻
+  🎯 Fields of Interest
 </h2>
 
 ```yaml                                
@@ -89,7 +89,7 @@ TECHNOLOGIES:                          OTHER HOBBIES:
 
 <!-- ----------------CONTACT INFO---------------- -->
 <h2 align="left">
-  Let's Connect!💬
+  🌐 Let's Connect!
 </h2>
 
 <p align="left">
@@ -114,18 +114,38 @@ TECHNOLOGIES:                          OTHER HOBBIES:
 </p>
 
 
-<!-- ----------------GITHUB ACTIVITY---------------- -->
-<h2 align="left"> GitHub Activity 💁🏻‍♀️</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrat-xahan05&show_icons=true&locale=en&theme=transparent" alt="nusrat-xahan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrat-xahan05&show_icons=true&locale=en&layout=compact&theme=transparent" alt="nusrat-xahan" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-xahan05&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-xahan" /> </p>
 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-xahan&" alt="nusrat-xahan" /></p>
--->
+<!-- ----------------GITHUB ACTIVITY---------------- -->
+<h2 align="left">📊 GitHub Activity</h2>
+
+<!-- GitHub Streak Stats -->
+<p align="left">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-xahan05&theme=github-dark" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<!-- Top Languages -->
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat-xahan05&layout=compact&theme=github_dark" 
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Profile Views Badge -->
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=nusrat-xahan05&label=Profile%20Views&color=e48e00&style=flat" 
+    alt="Profile Views"
+  />
+</p>
+
 
 
 <!-- ----------------FOOTER---------------- -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
