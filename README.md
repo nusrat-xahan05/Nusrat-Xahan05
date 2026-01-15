@@ -1,5 +1,5 @@
 <!-- ----------------BANNER---------------- -->
-<img align="center" alt="visualization" src="https://github.com/nusrat-xahan05/Nusrat-Xahan/blob/main/gitHub_Banner.gif">
+<img align="center" alt="visualization" src="https://github.com/nusrat-xahan05/Nusrat-Xahan/blob/main/nusrat-jahan.png">
 
 
 <!-- ----------------ABOUT---------------- -->
