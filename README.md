@@ -9,6 +9,7 @@
 ---
 
 - 💻 Aspiring **Full-Stack / Software Engineer** with a strong foundation in both **frontend and backend development**
+- 🌱 I’m currently learning **Docker, AWS** and **Advanced System Design**.
 - 🧩 Passionate about writing **clean, maintainable code** and solving real-world problems
 - 🔍 Interested in **system design, APIs, performance optimization, and best practices**
 - ⚡ Fascinated about **Learning New Technologies & Life Hacks 🙅🏻‍♀️**
